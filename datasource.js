@@ -44,7 +44,7 @@ System.register(['angular', 'lodash', 'moment', 'app/core/utils/datemath'], func
                 function BluefloodDatasource(instanceSettings, $q, backendSrv, templateSrv) {
                     _classCallCheck(this, BluefloodDatasource);
 
-                    this.url = instanceSettings.jsonData.bfUrl;
+                    this.url = instanceSettings.url;
                     this.name = instanceSettings.name;
                     this.render_method = instanceSettings.render_method || 'POST';
                     this._seriesRefLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
