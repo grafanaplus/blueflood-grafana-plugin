@@ -7,5 +7,5 @@ For more information on how to install the plugin, refer [blueflood-grafana](htt
    
 
 ## References
-[blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana)
-[http://blueflood.io/](http://blueflood.io/)
+* [blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana)
+* [http://blueflood.io/](http://blueflood.io/)
