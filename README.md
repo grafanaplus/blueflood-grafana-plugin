@@ -1,6 +1,6 @@
 # Blueflood plugin for grafana
 
-Plugin to use Blueflood or [Rackspace Metrics](https://support.rackspace.com/how-to/rackspace-metrics-overview/) as a datasouce with grafana. This plugin works with Grafana 3.x
+Plugin to use Blueflood or [Rackspace Metrics](https://support.rackspace.com/how-to/rackspace-metrics-overview/) as a datasouce with Grafana 3.x.
 
 ## Pre-Requisites
 
@@ -17,8 +17,8 @@ This plugin requires [graphite-api](http://graphite-api.readthedocs.io/en/latest
 ## Source code
 This source code of this plugin is located at  [https://github.com/rackerlabs/blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana). Contributions can be made to the original source code.
 
-## Alternative Installation
-For alternative ways to install the plugin, refer [blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana).
+## Installation Instructions
+For ways to install the plugin, refer [blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana).
 
 ## References
 * [blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana)
