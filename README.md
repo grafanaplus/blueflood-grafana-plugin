@@ -17,9 +17,6 @@ This plugin requires [graphite-api](http://graphite-api.readthedocs.io/en/latest
 ## Source code
 This source code of this plugin is located at  [https://github.com/rackerlabs/blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana). Contributions can be made to the original source code.
 
-## Installation Instructions
-For ways to install the plugin, refer [blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana).
-
 ## References
 * [blueflood-grafana](https://github.com/rackerlabs/blueflood-grafana)
 * [Blueflood finder](https://github.com/rackerlabs/blueflood-graphite-finder)
